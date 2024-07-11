@@ -1,41 +1,40 @@
-### Hi there 👋, my name is Sabbir
-#### Web developer at Qullia
-![Web developer at Qullia](https://media.licdn.com/dms/image/D5616AQEhj2z7YhbYAw/profile-displaybackgroundimage-shrink_350_1400/0/1699346924925?e=1704931200&v=beta&t=HfmMoxLZ79Bjb61ID4Dmde_oEzhVAK0cmxRmrMqoD_c)
+<h1 align="center">Hi 👋, I'm Sabbir Ahmad</h1>
+<h3 align="center">A passionate Junior Software engineer Focusing on Automation & AI.</h3>
 
-Passionate about learning and leveraging technology, I am a Computer Science student at BRAC University. With a deep fascination for acquiring knowledge and exploring new horizons, I am constantly seeking opportunities to expand my skill set and make a positive impact in the digital realm.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirbracu&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirbracu" /> </p>
 
-As the founder of my own agency, I provide advanced web development and marketing services to agencies worldwide. Leveraging cutting-edge technologies and industry best practices, I help businesses establish a strong online presence, drive growth, and achieve their goals. My expertise lies in creating dynamic and user-centric websites, implementing effective digital marketing strategies, and delivering measurable results.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirbracu" alt="sabbirbracu" /></a> </p>
 
-Driven by a relentless pursuit of excellence, I stay at the forefront of the ever-evolving digital landscape. I am committed to delivering top-notch solutions that align with the unique needs and objectives of my clients. By combining my technical proficiency with a strong business acumen, I strive to create impactful digital experiences that drive success for both my clients and their target audience.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I thrive in collaborative environments and enjoy working with diverse teams to tackle complex challenges. With excellent communication skills and a knack for problem-solving, I am adept at translating technical concepts into actionable insights that drive innovation and growth.
+- 🔭 I’m currently working on [Automated Web Scrapping](https://github.com/Sabbirbracu/Web_automation_8websites)
 
-If you are looking for a dedicated professional who is passionate about delivering exceptional web development and marketing services, let's connect! Together, we can unlock the true potential of your online presence and achieve remarkable results.
+- 🌱 I’m currently learning **Linux, Ububtu, Virtualization, Docker & AWS**
 
-#ComputerScienceStudent #WebDevelopment #DigitalMarketing #Entrepreneur #BRACUniversity #PassionateLearner #AgencyOwner"
+- 👯 I’m looking to collaborate on **Python Based Automated Project**
 
-Skills:  REACT / JS / HTML / CSS
+- 🤝 I’m looking for help with **Making a research paper Based on the CLOUD Computing**
 
-- 🔭 I’m currently working on Qullia 
-- 🌱 I’m currently learning Cyber Security 
-- 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: sabbirahmad653@gmail.com 
+- 👨‍💻 All of my projects are available at [qulliadigital/sabbirahmad.com](qulliadigital/sabbirahmad.com)
 
+- 📝 I regularly write articles on [qulliadigital/blog.com](qulliadigital/blog.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sabbirbracu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sabbir-ahmad-8917b4230//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009268164654)  
+- 💬 Ask me about **Python, MYSQL, Django, HTML, CSS, JS**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **sabbirahmad653@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sabbirbracu)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabbir-ahmad-8917b4230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabbir-ahmad-8917b4230/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009268164654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009268164654" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/codeartisan_sabbir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/codeartisan_sabbir/" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbirbracu)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbirbracu&show_icons=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirbracu&show_icons=true&locale=en&layout=compact" alt="sabbirbracu" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sabbirbracu)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirbracu&show_icons=true&locale=en" alt="sabbirbracu" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/Sabbirbracu)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sabbirbracu)  
-
-![Profile views](https://gpvc.arturio.dev/Sabbirbracu)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirbracu&" alt="sabbirbracu" /></p>
