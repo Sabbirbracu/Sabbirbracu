@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Automated Web Scrapping](https://github.com/Sabbirbracu/Web_automation_8websites)
+- 🔭 I’m currently working on [Laravel And React Project](https://github.com/Sabbirbracu/DhakaConnect)
 
 - 🌱 I’m currently learning **Linux, Ububtu, Virtualization, Docker & AWS**
 
-- 👯 I’m looking to collaborate on **Python Based Automated Project**
+- 👯 I’m looking to collaborate on **Python Based Automated Projects, Full Staack project on React, node js/ Laravel**
 
 - 🤝 I’m looking for help with **Making a research paper Based on the CLOUD Computing**
 
