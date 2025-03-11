@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Making a research paper Based on the CLOUD Computing**
 
-- 👨‍💻 All of my projects are available at [qulliadigital/sabbirahmad.com](qulliadigital/sabbirahmad.com)
+- 👨‍💻 All of my projects are available at [qulliadigital/sabbirahmad.com](https://wwww.qullia.com)
 
-- 📝 I regularly write articles on [qulliadigital/blog.com](qulliadigital/blog.com)
+- 📝 I regularly write articles on [qullia.com/blog](qullia.com/blog)
 
 - 💬 Ask me about **Python, MYSQL, Django, HTML, CSS, JS**
 
