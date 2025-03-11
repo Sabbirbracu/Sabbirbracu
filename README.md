@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [University Education & Communication Portal](https://github.com/Sabbirbracu/DhakaConnect)
+
 - 🔭 I’m currently working on [Laravel And React Project](https://github.com/Sabbirbracu/DhakaConnect)
 
 - 🌱 I’m currently learning **Linux, Ububtu, Virtualization, Docker & AWS**
@@ -19,7 +21,7 @@
 
 - 📝 I regularly write articles on [qullia.com/blog](https://www.qullia.com/blog)
 
-- 💬 Ask me about **Python, MYSQL, Django, HTML, CSS, JS**
+- 💬 Ask me about **Python, MYSQL, Django, HTML, CSS, JS, React, ExpressJs, NodeJs, Laravel, Php**
 
 - 📫 How to reach me **sabbirahmad653@gmail.com**
 
