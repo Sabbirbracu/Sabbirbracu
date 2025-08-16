@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [University Education & Communication Portal](https://github.com/Sabbirbracu/DhakaConnect)
 
-- 🔭 I’m currently working on [Laravel And React Project](https://github.com/Sabbirbracu/DhakaConnect)
+- 🔭 I’m currently working on [Express And React Project]
 
-- 🌱 I’m currently learning **Linux, Ububtu, Virtualization, Docker & AWS**
+- 🌱 I’m currently learning **Linux, Ububtu, Networking, Computer Graphics with OpenGL**
 
 - 👯 I’m looking to collaborate on **Python Based Automated Projects, Full Staack project on React, node js/ Laravel**
 
-- 🤝 I’m looking for help with **Making a research paper Based on the CLOUD Computing**
+- 🤝 I’m looking for help with **Making a research paper Based on the Coputer vision**
 
 - 👨‍💻 All of my projects are available at [qulliadigital/sabbirahmad.com](https://www.qullia.com)
 
