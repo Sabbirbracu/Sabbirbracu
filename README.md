@@ -52,7 +52,7 @@ I am a final-year Computer Science student passionate about building scalable so
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-38B2AC?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
