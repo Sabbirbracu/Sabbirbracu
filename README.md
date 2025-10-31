@@ -5,10 +5,10 @@
 
 <!-- Headline -->
 <h1 align="center">Hi 👋, I'm Sabbir Ahmad</h1>
-<h3 align="center">🚀 Junior Software Engineer | AI & Automation Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">🚀 Software Engineer | AI & Automation Enthusiast | Full-Stack Engineer</h3>
 
 <p align="center">
-I am a final-year Computer Science student passionate about building scalable software solutions and integrating AI into real-world applications. I specialize in Python, MERN Stack, and automation workflows, aiming to drive innovation in global tech ecosystems.
+I am a final-year Computer Science student from BRAC University who is passionate about building scalable software solutions and integrating AI into real-world applications. I specialize in Python, Javascript, Node js, EXPRESS, LARAVEL, REACT, NEXT.js, MYSQL, MONGODB, CI/CD Pipeline and automation workflows, aiming to drive innovation in global tech ecosystems. Along with that currently doing research based on Computer Vision with Tensorflow. 
 </p>
 
 ---
@@ -33,8 +33,8 @@ I am a final-year Computer Science student passionate about building scalable so
 ---
 
 ### 🌟 Featured Projects
-- [**DhakaConnect** – University Education & Communication Portal](https://github.com/Sabbirbracu/DhakaConnect)
-- [**DeenTrack** – Islamic Habit Tracker with AI Motivation](https://github.com/Sabbirbracu/DeenTrack)
+- [**Biye-Bandhan** – BD Matrimony Platform]([https://github.com/Sabbirbracu/BiyeBandhan])
+- [**RCHMS** – Housing Managemnet System](https://rchms.qullia.com/)https://github.com/Sabbirbracu/RunnerCity_Housing_Frontend 
 - [**The Daily Drift** – News Aggregator](https://thedailydrift.qullia.com)
 
 ---
