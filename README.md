@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1-_8gO98bTPMqTy68pNK91u0PpWKa-XDz" width="100%">
+  <img src="https://drive.google.com/file/d/1gDCP186ifNIJ6X4D__4FZNYeiuKqZxKb/view?usp=sharing" width="80%">
 </p>
 
 
