@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Sabbir Ahmad Banner" width="100%">
+  <img src="https://drive.google.com/file/d/1-_8gO98bTPMqTy68pNK91u0PpWKa-XDz/view?usp=sharing" width="100%">
 </p>
 
 <!-- Headline -->
