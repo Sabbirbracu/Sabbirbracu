@@ -53,7 +53,7 @@ I am a final-year Computer Science student from BRAC University who is passionat
 
 ### 📬 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/sabbir-ahmad-8917b4230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabbirahmad653/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009268164654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/codeartisan_sabbir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
