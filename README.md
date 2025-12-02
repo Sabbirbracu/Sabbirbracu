@@ -24,9 +24,9 @@ I am a final-year Computer Science student from BRAC University who is passionat
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=sabbirbracu&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirbracu&theme=tokyonight" alt="GitHub streak" height="160"/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirBracu&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sabbirBracu&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=sabbirBracu&theme=dark&hide_border=false"<br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirBracu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirBracu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> -->
 </p> 
 
 
