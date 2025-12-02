@@ -1,9 +1,8 @@
 <!-- Banner -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1gDCP186ifNIJ6X4D__4FZNYeiuKqZxKb/view?usp=sharing" width="100%" >
+  <img src="https://drive.google.com/uc?id=1gDCP186ifNIJ6X4D__4FZNYeiuKqZxKb" width="100%">
 </p>
-
 
 <!-- Headline -->
 <h1 align="center">Hi 👋, I'm Sabbir Ahmad</h1>
