@@ -38,7 +38,7 @@ I am a final-year Computer Science student from BRAC University who is passionat
 ---
 
 ### 🌟 Featured Projects
-- [**Shaadimartbd** – BD Matrimony Platform](https://github.com/Sabbirbracu/BiyeBandhan) [**LIVE**](http://shaadimartbd.com/)
+- [**Shaadimartbd** – BD Matrimony Platform](https://github.com/Sabbirbracu/BiyeBandhan) [**LIVE**](https://biye-bandhan.vercel.app/)
 - [**RCHMS** – Housing Managemnet System (Ongoing)](https://rchms.qullia.com/) [**FrontEnd**](https://github.com/Sabbirbracu/RunnerCity_Housing_Frontend) [**Backend**](https://github.com/Sabbirbracu/RunnerCityHousing_Backend)
 - [**The Daily Drift** – News Aggregator](https://thedailydrift.qullia.com)
 
