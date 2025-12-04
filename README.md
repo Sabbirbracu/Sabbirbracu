@@ -1,9 +1,3 @@
-<!-- Banner -->
-<!-- Banner -->
-<!-- <p align="center">
-  <img src="https://drive.google.com/uc?id=1gDCP186ifNIJ6X4D__4FZNYeiuKqZxKb" width="100%">
-</p> -->
-
 <!-- Headline -->
 <h1 align="center">Hi, I'm Sabbir Ahmad</h1>
 <h3 align="center">🚀 Software Engineer | AI & Automation Enthusiast | Full-Stack Engineer</h3>
@@ -82,7 +76,6 @@ I am a final-year Computer Science student from BRAC University who is passionat
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) 
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  
 
